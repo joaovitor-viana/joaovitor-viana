@@ -11,10 +11,6 @@
 </div>
  
  <br>
- 
-  ### Pra conteúdo sobre programação me segue no Dev em Dobro!
- 
-<div> 
 
   ![Snake animation](https://github.com/joaovitor-viana/joaovitor-viana/blob/output/github-contribution-grid-snake.svg)
 

@@ -12,6 +12,4 @@
  
  <br>
 
-  ![Snake animation](https://github.com/joaovitor-viana/joaovitor-viana/blob/output/github-contribution-grid-snake.svg)
-
 </div>
